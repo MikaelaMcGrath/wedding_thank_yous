@@ -1,0 +1,37 @@
+#nextLink:hover, #nextLink:visited:hover, #nextLink.force_show_nav, #frameNextLink {
+	background: url(../images/next.png) right 15% no-repeat;
+}
+#prevLink:hover, #prevLink:visited:hover, #prevLink.force_show_nav, #framePrevLink {
+	background: url(../images/prev.png) left 15% no-repeat;
+}
+#caption {
+	p {
+		margin: 0;
+		
+	}
+	a {
+	background: url(../images/download.png) no-repeat;
+ display: inline-block;
+ height: 35px;
+ overflow: hidden;
+ width: 35px;
+ text-indent: -9999px;
+&:hover, &:focus {
+	background: url(../images/download-hover.png) no-repeat;
+}
+}
+}
+ #bottomNavZoom, #imageData #numberDisplay
+{
+	display:none !important;
+	visibility: hidden;
+	line-height: 0;
+	padding: 0;
+	height: 0;
+}
+#imageData #bottomNav {
+	height: 40px;
+}
+#bottomNavClose {
+	margin: 0;
+}

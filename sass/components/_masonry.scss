@@ -1,0 +1,47 @@
+.masonry {
+	
+		
+		
+	.masonry-item {
+		width: 49.5%;
+		padding: 0;
+		margin: 0.3%;
+		height: auto;
+		border: none;
+		background-color: transparent;
+		text-align: center;
+		img {
+			width: 100%;
+			height: auto;
+			//border: 1px solid $grey50;
+			display: block;
+		}
+	}
+}
+@include breakpoint(phablet) {
+	.masonry {
+	
+		
+		
+	.masonry-item {
+		width: 49.5%;
+			margin: 0.25%;
+	}
+}
+}
+@include breakpoint(tablet) {
+	.masonry {
+		.masonry-item {
+			width: 33%;
+			margin: 0.15%;
+		}
+	}
+}
+@include breakpoint(desktop) {
+	.masonry {
+		.masonry-item {
+			width: 24.8%;
+			margin: 0.1%;
+		}
+	}
+}

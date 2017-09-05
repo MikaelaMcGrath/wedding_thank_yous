@@ -1,0 +1,175 @@
+/*********************
+BREAKPOINTS
+*********************/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\000037}}
+body {
+  font-family: "Abhaya Libre", helvetica; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000310}}
+h1, h2, h3 {
+  font-family: "Alex Brush", helvetica; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000313}}
+h1 {
+  font-size: 4em;
+  margin: 0.5rem 0;
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000318}}
+h5 {
+  font-size: 1em;
+  font-weight: 600; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000322}}
+sup {
+  vertical-align: super;
+  font-size: 0.7em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000326}}
+sub {
+  vertical-align: sub;
+  font-size: 0.7em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000330}}
+strong {
+  font-weight: 600; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000334}}
+ul li ul, ul li ol, ol li ul, ol li ol {
+  padding-left: 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000336}}
+  ul li ul ul, ul li ul ol, ul li ol ul, ul li ol ol, ol li ul ul, ol li ul ol, ol li ol ul, ol li ol ol {
+    padding-left: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/base\/_typography\.scss}line{font-family:\0000341}}
+caption {
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\000032}}
+body {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\000035}}
+.l-content {
+  padding: 5px 0.3125em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\0000310}}
+  .l-content .content-wrapper .center-wrapper {
+    margin: 0 auto;
+    max-width: 1430px;
+    text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\0000314}}
+    .l-content .content-wrapper .center-wrapper .pane-1 {
+      max-width: 500px;
+      margin: 0 auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\0000320}}
+  .l-content .hidden {
+    display: none;
+    visibility: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\0000325}}
+.bottom-wrapper {
+  text-align: center; }
+
+@media (min-width: 62em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_content\.scss}line{font-family:\0000329}}
+  .l-content {
+    padding: 0 2.5em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_masonry\.scss}line{font-family:\000035}}
+.masonry .masonry-item {
+  width: 49.5%;
+  padding: 0;
+  margin: 0.3%;
+  height: auto;
+  border: none;
+  background-color: transparent;
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_masonry\.scss}line{font-family:\0000313}}
+  .masonry .masonry-item img {
+    width: 100%;
+    height: auto;
+    display: block; }
+
+@media (min-width: 450px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_masonry\.scss}line{font-family:\0000326}}
+  .masonry .masonry-item {
+    width: 49.5%;
+    margin: 0.25%; } }
+@media (min-width: 48em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_masonry\.scss}line{font-family:\0000334}}
+  .masonry .masonry-item {
+    width: 33%;
+    margin: 0.15%; } }
+@media (min-width: 62em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_masonry\.scss}line{font-family:\0000342}}
+  .masonry .masonry-item {
+    width: 24.8%;
+    margin: 0.1%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_banner\.scss}line{font-family:\000032}}
+.banner img {
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_title\.scss}line{font-family:\000031}}
+h1.site-name {
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_video\.scss}line{font-family:\000031}}
+.pane-block-1 {
+  max-width: 600px;
+  width: 100%;
+  padding-bottom: 20px;
+  margin: 0 auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_video\.scss}line{font-family:\000036}}
+  .pane-block-1 .video {
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 */
+    padding-top: 25px;
+    height: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_video\.scss}line{font-family:\0000311}}
+    .pane-block-1 .video iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%; }
+
+@media (min-width: 48em) {
+  padding: 20px 1.25em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\000031}}
+#nextLink:hover, #nextLink:visited:hover, #nextLink.force_show_nav, #frameNextLink {
+  background: url(../images/next.png) right 15% no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\000034}}
+#prevLink:hover, #prevLink:visited:hover, #prevLink.force_show_nav, #framePrevLink {
+  background: url(../images/prev.png) left 15% no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\000038}}
+#caption p {
+  margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\0000312}}
+#caption a {
+  background: url(../images/download.png) no-repeat;
+  display: inline-block;
+  height: 35px;
+  overflow: hidden;
+  width: 35px;
+  text-indent: -9999px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\0000319}}
+  #caption a:hover, #caption a:focus {
+    background: url(../images/download-hover.png) no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\0000324}}
+#bottomNavZoom, #imageData #numberDisplay {
+  display: none !important;
+  visibility: hidden;
+  line-height: 0;
+  padding: 0;
+  height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\0000332}}
+#imageData #bottomNav {
+  height: 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Mikaela\/Sites\/devdesktop\/thankyou\/sites\/all\/themes\/custom\/wedding_thank_yous\/sass\/components\/_lightbox\.scss}line{font-family:\0000335}}
+#bottomNavClose {
+  margin: 0; }

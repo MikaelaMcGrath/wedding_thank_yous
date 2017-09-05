@@ -1,0 +1,32 @@
+
+body {
+	margin: 0;
+}
+.l-content {
+		padding: $vert-spacing-unit/4 $horz-spacing-unit/4;
+		
+		.content-wrapper {
+
+	.center-wrapper {
+		 margin: 0 auto;
+		max-width: 1430px;
+		text-align: center;
+		.pane-1 { 
+			max-width: 500px;
+			margin: 0 auto;
+		}
+	}
+}
+.hidden {
+	display: none;
+	visibility: hidden;
+}
+}
+.bottom-wrapper {
+	text-align: center;
+}
+@include breakpoint(desktop) {
+	.l-content {
+		padding: 0 $horz-spacing-unit*2;
+	}
+}

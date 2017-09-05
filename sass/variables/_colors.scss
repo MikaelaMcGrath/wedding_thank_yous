@@ -1,0 +1,30 @@
+// Colors for the Energy Council website
+
+// Base Colors
+$black: #000000;
+$white: #FFFFFF;
+$major: #005677;
+$grey80: #58595b;
+$grey50: #939598;
+$minor-1: #00283e;
+$minor-2: #1b9590;
+$minor-3: #61c6c6;
+$minor-4: #9cd9e0;
+$accent: #c973af;
+
+// Theme colors
+$header-color: $major;
+$header-background: lighten(#373D47, 30%);
+$header-hover-color: $white;
+$header-hover-background: $header-color;
+$form-border: $minor-3;
+$text-color: $grey80;
+$text-hover-color: $minor-1;
+$link-color: $minor-2;
+$link-visited-color: $accent;
+$menu-background: $minor-3;
+$menu-background-hover: $minor-4;
+$footer-text: $grey50;
+$footer-hover-text: $minor-2;
+$top-footer-background: $minor-1;
+$bottom-footer-background: $minor-1;

@@ -1,0 +1,30 @@
+name = Wedding Thank Yous
+description = Please provide a description for your theme.
+base theme = omega
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = css/wedding-thank-yous.reset.css
+stylesheets[all][] = css/wedding-thank-yous.styles.css
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = js/wedding-thank-yous.behaviors.js
+
+; ========================================
+; Regions
+; ========================================
+regions[header] = Header
+regions[help] = Help
+regions[content] = Content
+regions[footer] = Footer
+
+; ========================================
+; Plugins
+; ========================================
+plugins[panels][layouts] = panels/layouts
